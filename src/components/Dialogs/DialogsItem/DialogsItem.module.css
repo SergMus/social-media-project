@@ -1,0 +1,13 @@
+.person {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.image {
+  max-width: 50px;
+}
+
+span {
+  margin-left: 10px;
+}

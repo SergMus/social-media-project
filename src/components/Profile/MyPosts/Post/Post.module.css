@@ -1,0 +1,33 @@
+.comment {
+  padding: 20px;
+  background: #fff;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  height: 50px;
+  width: 50px;
+  margin-right: 8px;
+}
+
+.name {
+  font-size: 1.2rem;
+}
+
+.date {
+  margin-left: auto;
+}
+
+.text {
+  font-size: 1.2rem;
+  padding-top: 10px;
+  font-weight: 500;
+}
+
+.activities {
+  padding-top: 10px;
+}

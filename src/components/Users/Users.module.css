@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+}
+.userStatus {
+  display: flex;
+}
+.active {
+  font-weight: bold;
+}
+.image {
+  max-width: 100px;
+}

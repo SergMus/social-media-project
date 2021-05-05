@@ -1,0 +1,17 @@
+.wrapper {
+  padding-left: 20px;
+}
+
+.dialogs {
+  display: grid;
+  grid-template-columns: 4fr 8fr;
+}
+
+.dialogsList {
+  padding: 0 20px;
+  border-right: 1px solid blueviolet;
+}
+
+.messagesList {
+  padding: 0 20px;
+}

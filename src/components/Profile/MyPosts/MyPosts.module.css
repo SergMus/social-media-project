@@ -1,0 +1,23 @@
+.myposts {
+  padding: 20px;
+  background: #fff;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+textarea {
+  min-height: 100px;
+  width: 100%;
+  margin: 10px 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 10px;
+  font-size: 1.2rem;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-end;
+}
